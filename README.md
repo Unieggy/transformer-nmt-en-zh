@@ -245,6 +245,8 @@ pip install torch sentencepiece gradio
 ```bash
 pip install datasets tokenizers torchmetrics tensorboard tqdm sentencepiece torch gradio
 ```
+### Weight file
+https://drive.google.com/file/d/1efKsvJC5EC97WuDPRw6eoP057wScTdJT/view?usp=drive_link
 
 Optionally:
 
