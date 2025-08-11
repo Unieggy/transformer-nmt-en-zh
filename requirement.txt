@@ -1,0 +1,9 @@
+torch
+sentencepiece
+gradio
+datasets
+tokenizers
+torchmetrics
+tensorboard
+tqdm
+
