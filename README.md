@@ -1,5 +1,4 @@
 
-````markdown
 # English → Chinese Transformer NMT (SentencePiece+PyTorch)
 
 A minimal, clean English→Chinese Neural Machine Translation system:
